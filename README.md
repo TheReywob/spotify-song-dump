@@ -1,2 +1,11 @@
-# spotify-song-dump
-Export all your songs and which playlist they belong to into a CSV file
+# Spotify Song Dump
+Export all your songs and playlists into a CSV file
+
+### Prerquisites
+Windows
+
+`code here`
+
+macOS & Linux
+
+`code here`
